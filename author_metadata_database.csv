@@ -1,0 +1,307 @@
+,name,doi,country,year,first_name,gender
+0,Gabriela Viale Pereira,10.1145/3598469.3598543,Poland,2023,Gabriela,female
+1,Lukas Klausner,10.1145/3598469.3598543,Poland,2023,Lukas,male
+2,Lucy Temple,10.1145/3598469.3598543,Poland,2023,Lucy,female
+3,Thomas Delissen,10.1145/3598469.3598543,Poland,2023,Thomas,male
+4,Thomas Lampoltshammer,10.1145/3598469.3598543,Poland,2023,Thomas,male
+5,Torsten Priebe,10.1145/3598469.3598543,Poland,2023,Torsten,male
+6,Luiz Claudio Diogo Reis,10.1145/3463677.3463682,USA,2021,Luiz,male
+7,Flavia Cristina Bernardini,10.1145/3463677.3463682,USA,2021,Flavia,female
+8,Simone Bacellar Leal Ferreira,10.1145/3463677.3463682,USA,2021,Simone,female
+9,Claudia Cappelli,10.1145/3463677.3463682,USA,2021,Claudia,female
+10,Vasja Roblek,10.1145/3396956.3398263,Republic of Korea,2020,Vasja,mostly_male
+11,Maja Me\v{s}ko,10.1145/3396956.3398263,Republic of Korea,2020,Maja,female
+12,Anthony Simonofski,10.1145/3396956.3396985,Republic of Korea,2020,Anthony,male
+13,Stefanie Van Den Storme,10.1145/3396956.3396985,Republic of Korea,2020,Stefanie,female
+14,Hanne Meers,10.1145/3396956.3396985,Republic of Korea,2020,Hanne,female
+15,Helen Liu,10.1145/3598469.3598474,Poland,2023,Helen,female
+16,Yu-Wei Guo,10.1145/3598469.3598474,Poland,2023,Yu-Wei,andy
+17,Liang-Yu Chen,10.1145/3598469.3598474,Poland,2023,Liang-Yu,andy
+18,Michael Ahn,10.1145/3396956.3396993,Republic of Korea,2020,Michael,male
+19,Yu-Che Chen,10.1145/3396956.3396993,Republic of Korea,2020,Yu-Che,male
+20,Kihaing Cho,10.1145/3396956.3396993,Republic of Korea,2020,Kihaing,unknown
+21,Chenyu Huang,10.1145/3396956.3396993,Republic of Korea,2020,Chenyu,male
+22,Younhee Kim,10.1145/3396956.3396993,Republic of Korea,2020,Younhee,female
+23,Seung-Hwan Myeong,10.1145/3396956.3396993,Republic of Korea,2020,Seung-Hwan,male
+24,Yannis Charalabidis,10.1145/3396956.3398257,Republic of Korea,2020,Yannis,male
+25,Euripidis Loukis,10.1145/3396956.3398257,Republic of Korea,2020,Euripidis,male
+26,Charalampos Alexopoulos,10.1145/3396956.3398257,Republic of Korea,2020,Charalampos,male
+27,Nikolaos Vogiatzis,10.1145/3396956.3398257,Republic of Korea,2020,Nikolaos,male
+28,Dimitrios Kolokotronis,10.1145/3396956.3398257,Republic of Korea,2020,Dimitrios,male
+29,Ralf-Martin Soe,10.1145/3598469.3598481,Poland,2023,Ralf-Martin,male
+30,Kim Normann Andersen,10.1145/3396956.3396979,Republic of Korea,2020,Kim,mostly_female
+31,B. Kim,10.1145/3396956.3396979,Republic of Korea,2020,B.,unknown
+32,Sahng Kim,10.1145/3396956.3396990,Republic of Korea,2020,Sahng,male
+33,Seung Jeon,10.1145/3396956.3396990,Republic of Korea,2020,Seung,andy
+34,Hun Kwon,10.1145/3396956.3396990,Republic of Korea,2020,Hun,andy
+35,Brian Poltie,10.1145/3396956.3397867,Republic of Korea,2020,Brian,male
+36,Emmanuel Udoh,10.1145/3396956.3397867,Republic of Korea,2020,Emmanuel,male
+37,Luis Luna-Reyes,10.1145/3396956.3397867,Republic of Korea,2020,Luis,male
+38,Magdalena Ciesielska,10.1145/3598469.3598520,Poland,2023,Magdalena,female
+39,Aurora Ortiz,10.1145/3598469.3598520,Poland,2023,Aurora,female
+40,Bowen Liu,10.1145/3657054.3661166,Taiwan,2024,Bowen,male
+41,Yikun Xia,10.1145/3657054.3661166,Taiwan,2024,Yikun,unknown
+42,Carlos B. Paiva Neto,10.1145/3543434.3543594,Republic of Korea,2022,Carlos,male
+43,Cindy Schaefer,10.1145/3463677.3463688,USA,2021,Cindy,female
+44,Aida Stelter,10.1145/3463677.3463688,USA,2021,Aida,female
+45,Caroline Ressing,10.1145/3463677.3463688,USA,2021,Caroline,female
+46,Bjoern Niehaves,10.1145/3463677.3463688,USA,2021,Bjoern,male
+47,Leonidas Anthopoulos,10.1145/3563881,Republic of Korea,2022,Leonidas,male
+48,Dongwook Kim,10.1145/3563881,Republic of Korea,2022,Dongwook,male
+49,Soon Chun,10.1145/3563881,Republic of Korea,2022,Soon,andy
+50,Leonidas Anthopoulos,10.1145/3657054.3657153,Taiwan,2024,Leonidas,male
+51,Asteria Tsapadikou,10.1145/3657054.3657153,Taiwan,2024,Asteria,female
+52,Drs. Anthopoulos,10.1145/3406817,Republic of Korea,2020,Drs.,unknown
+53,Wookjoon Sung,10.1145/3406817,Republic of Korea,2020,Wookjoon,male
+54,Soon Ae Chun,10.1145/3406817,Republic of Korea,2020,Soon,andy
+55,Hyesung Park,10.1145/3543434.3543460,Republic of Korea,2022,Hyesung,unknown
+56,Jeong-Eun Seo,10.1145/3543434.3543460,Republic of Korea,2022,Jeong-Eun,female
+57,Hunyeong Kwon,10.1145/3543434.3543460,Republic of Korea,2022,Hunyeong,male
+58,Dongwook Kim,10.1145/3463677.3463724,USA,2021,Dongwook,male
+59,Wookjoon Sung,10.1145/3463677.3463724,USA,2021,Wookjoon,male
+60,Choong-Sik Chung,10.1145/3463677.3463724,USA,2021,Choong-Sik,unknown
+61,Seok-Jin Eom,10.1145/3463677.3463724,USA,2021,Seok-Jin,male
+62,Loni Hagen,10.1145/3463677.3463724,USA,2021,Loni,female
+63,Sungsoo Hwang,10.1145/3463677.3463724,USA,2021,Sungsoo,male
+64,Soon Chun,10.1145/3463677.3463724,USA,2021,Soon,andy
+65,Xiaoyi Yerden,10.1145/3463677.3463701,USA,2021,Xiaoyi,unknown
+66,Ramon Gil-Garcia,10.1145/3463677.3463701,USA,2021,Ramon,male
+67,Mila Gasco-Hernandez,10.1145/3463677.3463701,USA,2021,Mila,female
+68,Brian Burke,10.1145/3463677.3463701,USA,2021,Brian,male
+69,Bettina Distel,10.1145/3563879,Republic of Korea,2022,Bettina,female
+70,Hendrik Scholta,10.1145/3563879,Republic of Korea,2022,Hendrik,male
+71,Tobias Brandt,10.1145/3563879,Republic of Korea,2022,Tobias,male
+72,Aleksandra Kekkonen,10.1145/3598469.3598498,Poland,2023,Aleksandra,female
+73,Ilona Beliatskaya,10.1145/3598469.3598498,Poland,2023,Ilona,female
+74,Leonidas Anthopoulos,10.1145/3670744,Taiwan,2024,Leonidas,male
+75,Soon Chun,10.1145/3670744,Taiwan,2024,Soon,andy
+76,Lesedi Matlala,10.1145/3657054.3657158,Taiwan,2024,Lesedi,male
+77,Luiz Claudio Diogo Reis,10.1145/3463677.3463729,USA,2021,Luiz,male
+78,Flavia Cristina Bernardini,10.1145/3463677.3463729,USA,2021,Flavia,female
+79,Simone Bacellar Leal Ferreira,10.1145/3463677.3463729,USA,2021,Simone,female
+80,Claudia Cappelli,10.1145/3463677.3463729,USA,2021,Claudia,female
+81,Gabriele Suffia,10.1145/3598469.3598482,Poland,2023,Gabriele,female
+82,Christos Ziozias,10.1145/3543434.3543491,Republic of Korea,2022,Christos,male
+83,Leonidas Anthopoulos,10.1145/3543434.3543491,Republic of Korea,2022,Leonidas,male
+84,Michael Koddebusch,10.1145/3543434.3543476,Republic of Korea,2022,Michael,male
+85,Morten Meyerhoff Nielsen,10.1145/3396956.3396969,Republic of Korea,2020,Morten,male
+86,Jeremy Millard,10.1145/3396956.3396969,Republic of Korea,2020,Jeremy,male
+87,Travis Munyer,10.1145/3463677.3463743,USA,2021,Travis,male
+88,Daniel Brinkman,10.1145/3463677.3463743,USA,2021,Daniel,male
+89,Chenyu Huang,10.1145/3463677.3463743,USA,2021,Chenyu,male
+90,Xin Zhong,10.1145/3463677.3463743,USA,2021,Xin,andy
+91,Yue Gao,10.1145/3463677.3463739,USA,2021,Yue,andy
+92,Jing Zhang,10.1145/3463677.3463739,USA,2021,Jing,andy
+93,Kim Andersen,10.1145/3657054.3657149,Taiwan,2024,Kim,mostly_female
+94,Jungwoo Lee,10.1145/3657054.3657149,Taiwan,2024,Jungwoo,unknown
+95,Soonhee Kim,10.1145/3657054.3657149,Taiwan,2024,Soonhee,female
+96,Djoko Sigit Sayogo,10.1145/3396956.3396970,Republic of Korea,2020,Djoko,male
+97,Sri Cantika Yuli,10.1145/3396956.3396970,Republic of Korea,2020,Sri,andy
+98,Wi yono,10.1145/3396956.3396970,Republic of Korea,2020,Wi,unknown
+99,Dasheng Lee,10.1145/3657054.3657065,Taiwan,2024,Dasheng,unknown
+100,Shih-Lung Chao,10.1145/3657054.3657065,Taiwan,2024,Shih-Lung,unknown
+101,Hui-Min Chen,10.1145/3657054.3657065,Taiwan,2024,Hui-Min,andy
+102,Elide Garbani-Nerini,10.1145/3657054.3657275,Taiwan,2024,Elide,female
+103,Elena Marchiori,10.1145/3657054.3657275,Taiwan,2024,Elena,female
+104,Nadzeya Sabatini,10.1145/3657054.3657275,Taiwan,2024,Nadzeya,female
+105,Lorenzo Cantoni,10.1145/3657054.3657275,Taiwan,2024,Lorenzo,male
+106,Helen K. Liu,10.1145/3396956.3396965,Republic of Korea,2020,Helen,female
+107,Muhchyun Tang,10.1145/3396956.3396965,Republic of Korea,2020,Muhchyun,male
+108,Kuang-Hua Chen,10.1145/3396956.3396965,Republic of Korea,2020,Kuang-Hua,male
+109,Nchebe-Jah Iloanusi,10.1145/3657054.3657152,Taiwan,2024,Nchebe-Jah,male
+110,Soon Chun,10.1145/3657054.3657152,Taiwan,2024,Soon,andy
+111,Hsuan-Ta Yu,10.1145/3657054.3657087,Taiwan,2024,Hsuan-Ta,unknown
+112,Yichun Chiu,10.1145/3657054.3657087,Taiwan,2024,Yichun,unknown
+113,Hui-Min Chen,10.1145/3657054.3657087,Taiwan,2024,Hui-Min,andy
+114,Dachen Chu,10.1145/3657054.3657087,Taiwan,2024,Dachen,male
+115,Tsu-Hsiang Yi,10.1145/3657054.3657087,Taiwan,2024,Tsu-Hsiang,unknown
+116,DaSheng Lee,10.1145/3657054.3657087,Taiwan,2024,DaSheng,andy
+117,Shih-Lung Chao,10.1145/3657054.3657087,Taiwan,2024,Shih-Lung,unknown
+118,Soon Chun,10.1145/3598469.3598549,Poland,2023,Soon,andy
+119,Fatima Yusuf,10.1145/3598469.3598549,Poland,2023,Fatima,female
+120,Sasikala Vasudevan,10.1145/3598469.3598549,Poland,2023,Sasikala,male
+121,Michael Renda,10.1145/3598469.3598549,Poland,2023,Michael,male
+122,Chih-Yuan Li,10.1145/3598469.3598549,Poland,2023,Chih-Yuan,female
+123,James Geller,10.1145/3598469.3598549,Poland,2023,James,male
+124,Battulga Buyannemekh,10.1145/3657054.3657073,Taiwan,2024,Battulga,male
+125,Manuel Rodr\'{\i}guez Bol\'{\i}var,10.1145/3657054.3657255,Taiwan,2024,Manuel,male
+126,Laura Alcaide Mu\~{n}oz,10.1145/3657054.3657255,Taiwan,2024,Laura,female
+127,Miguel Morales Mar\'{\i}n,10.1145/3657054.3657255,Taiwan,2024,Miguel,male
+128,Hans Scholl,10.1145/3657054.3657106,Taiwan,2024,Hans,male
+129,J. Criado,10.1145/3463677.3463737,USA,2021,J.,unknown
+130,Carlos Jimenez,10.1145/3463677.3463737,USA,2021,Carlos,male
+131,Laura Alcaide-Munoz,10.1145/3463677.3463737,USA,2021,Laura,female
+132,Evgeny Styrin,10.1145/3657054.3657164,Taiwan,2024,Evgeny,male
+133,Beatriz Lanza,10.1145/3657054.3657164,Taiwan,2024,Beatriz,female
+134,Jaeshin Park,10.1145/3657054.3657164,Taiwan,2024,Jaeshin,unknown
+135,Katrin Rajamae-Soosaar,10.1145/3657054.3657161,Taiwan,2024,Katrin,female
+136,Anastasija Nikiforova,10.1145/3657054.3657161,Taiwan,2024,Anastasija,female
+137,Rony Medaglia,10.1145/3463677.3463736,USA,2021,Rony,male
+138,Gianluca Misuraca,10.1145/3463677.3463736,USA,2021,Gianluca,male
+139,Vincenzo Aquaro,10.1145/3463677.3463736,USA,2021,Vincenzo,male
+140,Zong-Xian Huang,10.1145/3657054.3657137,Taiwan,2024,Zong-Xian,male
+141,Mila Gasco-Hernandez,10.1145/3657054.3657137,Taiwan,2024,Mila,female
+142,Aryamala Prasad,10.1145/3657054.3657137,Taiwan,2024,Aryamala,female
+143,J. Gil-Garcia,10.1145/3657054.3657137,Taiwan,2024,J.,unknown
+144,Hongqin Li,10.1145/3463677.3463687,USA,2021,Hongqin,unknown
+145,Jun Zhai,10.1145/3463677.3463687,USA,2021,Jun,mostly_male
+146,Colin Noordt,10.1145/3543434.3543441,Republic of Korea,2022,Colin,male
+147,Hao-En Kao,10.1145/3598469.3598477,Poland,2023,Hao-En,male
+148,Carolina Tavares Lopes,10.1145/3657054.3657267,Taiwan,2024,Carolina,female
+149,Edimara Luciano,10.1145/3657054.3657267,Taiwan,2024,Edimara,female
+150,Lucas Roldan,10.1145/3657054.3657267,Taiwan,2024,Lucas,male
+151,Rosiane Alves Palacios,10.1145/3657054.3657096,Taiwan,2024,Rosiane,female
+152,Edimara Mezzomo Luciano,10.1145/3657054.3657096,Taiwan,2024,Edimara,female
+153,Gabriela Viale Pereira,10.1145/3657054.3657096,Taiwan,2024,Gabriela,female
+154,Daniil Buryakov,10.1145/3657054.3657250,Taiwan,2024,Daniil,male
+155,Mate Kovacs,10.1145/3657054.3657250,Taiwan,2024,Mate,male
+156,"Uwe Serd\""{u}lt",10.1145/3657054.3657250,Taiwan,2024,Uwe,male
+157,Victor Kryssanov,10.1145/3657054.3657250,Taiwan,2024,Victor,male
+158,Heike Vornhagen,10.1145/3463677.3463695,USA,2021,Heike,female
+159,Manel Zarrouk,10.1145/3463677.3463695,USA,2021,Manel,male
+160,Brian Davis,10.1145/3463677.3463695,USA,2021,Brian,male
+161,Karen Young,10.1145/3463677.3463695,USA,2021,Karen,female
+162,Wilson Wong,10.1145/3657054.3657147,Taiwan,2024,Wilson,male
+163,Natalie Wong,10.1145/3657054.3657147,Taiwan,2024,Natalie,female
+164,Charles Hinnant,10.1145/3657054.3657147,Taiwan,2024,Charles,male
+165,Giulia Maragno,10.1145/3463677.3463692,USA,2021,Giulia,female
+166,Luca Gastaldi,10.1145/3463677.3463692,USA,2021,Luca,male
+167,Mariano Corso,10.1145/3463677.3463692,USA,2021,Mariano,male
+168,Vijay Atluri,10.1145/3396956.3396978,Republic of Korea,2020,Vijay,mostly_male
+169,Yuan Hong,10.1145/3396956.3396978,Republic of Korea,2020,Yuan,andy
+170,Soon Chun,10.1145/3396956.3396978,Republic of Korea,2020,Soon,andy
+171,Diego L\'{o}pez-de-Ipina,10.1145/3543434.3543665,Republic of Korea,2022,Diego,male
+172,Taco Brandsen,10.1145/3543434.3543665,Republic of Korea,2022,Taco,male
+173,Trui Steen,10.1145/3543434.3543665,Republic of Korea,2022,Trui,andy
+174,Pauli Misikangas,10.1145/3543434.3543665,Republic of Korea,2022,Pauli,male
+175,Daniel Sarasa,10.1145/3543434.3543665,Republic of Korea,2022,Daniel,male
+176,"A. Rodriguez M\""{u}ller",10.1145/3543434.3543665,Republic of Korea,2022,A.,unknown
+177,Noella Edelmann,10.1145/3543434.3543665,Republic of Korea,2022,Noella,female
+178,Michael Ahn,10.1145/3463677.3463721,USA,2021,Michael,male
+179,Chenyu Huang,10.1145/3463677.3463721,USA,2021,Chenyu,male
+180,Pei-Chi Huang,10.1145/3463677.3463721,USA,2021,Pei-Chi,female
+181,Xin Zhong,10.1145/3463677.3463721,USA,2021,Xin,andy
+182,Johannes Himmelreich,10.1145/3463677.3463721,USA,2021,Johannes,male
+183,Kevin Desouza,10.1145/3463677.3463721,USA,2021,Kevin,male
+184,Richard Knepper,10.1145/3463677.3463721,USA,2021,Richard,male
+185,Yu-Che Chen,10.1145/3396956.3396991,Republic of Korea,2020,Yu-Che,male
+186,Jooho Lee,10.1145/3396956.3396991,Republic of Korea,2020,Jooho,male
+187,Sukumar Ganapati,10.1145/3396956.3396991,Republic of Korea,2020,Sukumar,male
+188,Michael Ahn,10.1145/3396956.3396991,Republic of Korea,2020,Michael,male
+189,Chengyu Huang,10.1145/3396956.3396991,Republic of Korea,2020,Chengyu,unknown
+190,Yannis Charalabidis,10.1145/3396956.3400062,Republic of Korea,2020,Yannis,male
+191,Zoi Lachana,10.1145/3396956.3400062,Republic of Korea,2020,Zoi,female
+192,Boriana Rukanova,10.1145/3463677.3463752,USA,2021,Boriana,female
+193,Yao-Hua Tan,10.1145/3463677.3463752,USA,2021,Yao-Hua,andy
+194,Robin Hamerlinck,10.1145/3463677.3463752,USA,2021,Robin,mostly_male
+195,Frank Heijmann,10.1145/3463677.3463752,USA,2021,Frank,male
+196,Jolien Ubacht,10.1145/3463677.3463752,USA,2021,Jolien,female
+197,Hsien-Lee Tseng,10.1145/3657054.3657089,Taiwan,2024,Hsien-Lee,unknown
+198,Anastasija Nikiforova,10.1145/3657054.3657089,Taiwan,2024,Anastasija,female
+199,Chiara Leonardi,10.1145/3543434.3543462,Republic of Korea,2022,Chiara,female
+200,Elena Not,10.1145/3543434.3543462,Republic of Korea,2022,Elena,female
+201,Anastasija Nikiforova,10.1145/3598469.3598556,Poland,2023,Anastasija,female
+202,Charalampos Alexopoulos,10.1145/3598469.3598556,Poland,2023,Charalampos,male
+203,Nina Rizun,10.1145/3598469.3598556,Poland,2023,Nina,female
+204,Magdalena Ciesielska,10.1145/3598469.3598556,Poland,2023,Magdalena,female
+205,Richard Knepper,10.1145/3657054.3657169,Taiwan,2024,Richard,male
+206,Yu-Che Chen,10.1145/3657054.3657169,Taiwan,2024,Yu-Che,male
+207,Kerk Kee,10.1145/3657054.3657169,Taiwan,2024,Kerk,unknown
+208,Shan Xu,10.1145/3657054.3657169,Taiwan,2024,Shan,andy
+209,Yiwei Gong,10.1145/3543434.3543487,Republic of Korea,2022,Yiwei,unknown
+210,Xinyi Yang,10.1145/3543434.3543487,Republic of Korea,2022,Xinyi,unknown
+211,Sukumar Ganapati,10.1145/3463677.3463728,USA,2021,Sukumar,unknown
+212,Michael Ahn,10.1145/3463677.3463728,USA,2021,Michael,male
+213,Yu-Che Chen,10.1145/3463677.3463728,USA,2021,Yu-Che,unknown
+214,Robert Krimmer,10.1145/3463677.3463728,USA,2021,Robert,male
+215,Gabriela Viale Pereira,10.1145/3463677.3463728,USA,2021,Gabriela,female
+216,Cristian Pliscoff,10.1145/3463677.3463728,USA,2021,Cristian,male
+217,Hsien-Lee Tseng,10.1145/3463677.3463728,USA,2021,Hsien-Lee,unknown
+218,Jiannan Wu,10.1145/3463677.3463728,USA,2021,Jiannan,unknown
+219,Meeyoung Park,10.1145/3657054.3657168,Taiwan,2024,Meeyoung,unknown
+220,Younghwan Jeon,10.1145/3657054.3657168,Taiwan,2024,Younghwan,unknown
+221,Wookjoon Sung,10.1145/3657054.3657168,Taiwan,2024,Wookjoon,male
+222,Helen Liu,10.1145/3657054.3657101,Taiwan,2024,Helen,female
+223,Shih-Lung Chao,10.1145/3657054.3657101,Taiwan,2024,Shih-Lung,unknown
+224,Hui-Min Chen,10.1145/3657054.3657101,Taiwan,2024,Hui-Min,andy
+225,Loni Hagen,10.1145/3463677.3463740,USA,2021,Loni,female
+226,Rodrigo Sandoval-Almazan,10.1145/3463677.3463740,USA,2021,Rodrigo,male
+227,Stephan Okhuijsen,10.1145/3463677.3463740,USA,2021,Stephan,male
+228,Susana Cabaco,10.1145/3463677.3463740,USA,2021,Susana,female
+229,Edgar A. Ruvalcaba-Gomez,10.1145/3463677.3463740,USA,2021,Edgar,male
+230,Julian Villodre,10.1145/3463677.3463740,USA,2021,Julian,male
+231,Wookjoon Sung,10.1145/3463677.3463740,USA,2021,Wookjoon,male
+232,David Valle-Cruz,10.1145/3463677.3463740,USA,2021,David,male
+233,Battulga Buyannemekh,10.1145/3598469.3598523,Poland,2023,Battulga,male
+234,Meghan Cook,10.1145/3598469.3598523,Poland,2023,Meghan,female
+235,Yue Gao,10.1145/3598469.3598531,Poland,2023,Yue,andy
+236,Chunjie Zhao,10.1145/3598469.3598531,Poland,2023,Chunjie,female
+237,Jing Zhang,10.1145/3598469.3598531,Poland,2023,Jing,andy
+238,Nina Rizun,10.1145/3598469.3598471,Poland,2023,Nina,female
+239,Aleksandra Revina,10.1145/3598469.3598471,Poland,2023,Aleksandra,female
+240,Noella Edelmann,10.1145/3598469.3598471,Poland,2023,Noella,female
+241,Auriane Marmier,10.1145/3543434.3543438,Republic of Korea,2022,Auriane,female
+242,Hao-En Kao,10.1145/3657054.3657121,Taiwan,2024,Hao-En,unknown
+243,Giulia Maragno,10.1145/3463677.3463699,USA,2021,Giulia,female
+244,Luca Gastaldi,10.1145/3463677.3463699,USA,2021,Luca,male
+245,Luca Tangi,10.1145/3463677.3463699,USA,2021,Luca,male
+246,Michele Benedetti,10.1145/3463677.3463699,USA,2021,Michele,female
+247,Jean-Marc Kazadi Katembwe,10.1145/3657054.3657103,Taiwan,2024,Jean-Marc,unknown
+248,Eriks Sneiders,10.1145/3657054.3657103,Taiwan,2024,Eriks,male
+249,Raissa Barcellos,10.1145/3598469.3598559,Poland,2023,Raissa,female
+250,Flavia Bernardini,10.1145/3598469.3598559,Poland,2023,Flavia,female
+251,Jose Viterbo,10.1145/3598469.3598559,Poland,2023,Jose,male
+252,Anneke Zuiderwijk,10.1145/3598469.3598559,Poland,2023,Anneke,female
+253,Miguel Alvarez-Rodriguez,10.1145/3598469.3598513,Poland,2023,Miguel,male
+254,Victoira Kalogirou,10.1145/3598469.3598513,Poland,2023,Victoira,female
+255,Federico Chiarelli,10.1145/3598469.3598513,Poland,2023,Federico,male
+256,Allegra Crahay,10.1145/3598469.3598513,Poland,2023,Allegra,female
+257,No\'{e}mie Custers,10.1145/3598469.3598513,Poland,2023,No\'{e}mie,female
+258,Emilia Miscen\`{a},10.1145/3598469.3598513,Poland,2023,Emilia,female
+259,Kim Normann Andersen,10.1145/3396956.3396980,Republic of Korea,2020,Kim,mostly_female
+260,Jungwoo Lee,10.1145/3396956.3396980,Republic of Korea,2020,Jungwoo,male
+261,Tobias Mettler,10.1145/3396956.3396980,Republic of Korea,2020,Tobias,male
+262,M. Moon,10.1145/3396956.3396980,Republic of Korea,2020,M.,unknown
+263,Lisa Klug,10.1145/3598469.3598525,Poland,2023,Lisa,female
+264,Wolfgang Prinz,10.1145/3598469.3598525,Poland,2023,Wolfgang,male
+265,Ruihao Wang,10.1145/3657054.3657136,Taiwan,2024,Ruihao,unknown
+266,Mate Kovacs,10.1145/3657054.3657136,Taiwan,2024,Mate,male
+267,Victor Kryssanov,10.1145/3657054.3657136,Taiwan,2024,Victor,male
+268,Uwe Serdult,10.1145/3657054.3657136,Taiwan,2024,Uwe,male
+269,Wookjoon Sung,10.1145/3396956.3396988,Republic of Korea,2020,Wookjoon,male
+270,Kil Hong,10.1145/3396956.3396988,Republic of Korea,2020,Kil,andy
+271,Youngmin Cho,10.1145/3396956.3396988,Republic of Korea,2020,Youngmin,male
+272,Hanbyul Choi,10.1145/3396956.3396988,Republic of Korea,2020,Hanbyul,male
+273,Thomas Wellings,10.1145/3598469.3598472,Poland,2023,Thomas,male
+274,Sirjoni Majumdar,10.1145/3598469.3598472,Poland,2023,Sirjoni,unknown
+275,"Regula H\""{a}nggli Fricker",10.1145/3598469.3598472,Poland,2023,Regula,female
+276,Evangelos Pournaras,10.1145/3598469.3598472,Poland,2023,Evangelos,male
+277,Morten Meyerhoff Nielsen,10.1145/3396956.3396987,Republic of Korea,2020,Morten,male
+278,Zoran Jordanoski,10.1145/3396956.3396987,Republic of Korea,2020,Zoran,male
+279,Beomgeun Cho,10.1145/3396956.3396961,Republic of Korea,2020,Beomgeun,unknown
+280,R. Rethemeyer,10.1145/3396956.3396961,Republic of Korea,2020,R.,unknown
+281,Noor Alnahhas,10.1145/3657054.3657126,Taiwan,2024,Noor,mostly_female
+282,Dima Yousef,10.1145/3657054.3657126,Taiwan,2024,Dima,female
+283,David Valle-Cruz,10.1145/3396956.3396995,Republic of Korea,2020,David,male
+284,J. Gil-Garcia,10.1145/3396956.3396995,Republic of Korea,2020,J.,unknown
+285,Vanessa Fernandez-Cortez,10.1145/3396956.3396995,Republic of Korea,2020,Vanessa,female
+286,Fredrik Carlsson,10.1145/3598469.3598536,Poland,2023,Fredrik,male
+287,Marcus Matteby,10.1145/3598469.3598536,Poland,2023,Marcus,male
+288,Johan Magnusson,10.1145/3598469.3598536,Poland,2023,Johan,male
+289,Nataliya Berbyuk Lindstrom,10.1145/3598469.3598536,Poland,2023,Nataliya,female
+290,Erico Przeybilovicz,10.1145/3598469.3598534,Poland,2023,Erico,male
+291,Maria Cunha,10.1145/3598469.3598534,Poland,2023,Maria,female
+292,Manuella Ribeiro,10.1145/3598469.3598534,Poland,2023,Manuella,female
+293,Luca Tangi,10.1145/3598469.3598516,Poland,2023,Luca,male
+294,Colin Noordt,10.1145/3598469.3598516,Poland,2023,Colin,male
+295,"A. Rodriguez M\""{u}ller",10.1145/3598469.3598516,Poland,2023,A.,unknown
+296,Yi-Fan Wang,10.1145/3543434.3543444,Republic of Korea,2022,Yi-Fan,andy
+297,David Valle-Cruz,10.1145/3657054.3657146,Taiwan,2024,David,male
+298,Rigoberto Garcia-Contreras,10.1145/3657054.3657146,Taiwan,2024,Rigoberto,male
+299,J. Munoz-Ch\'{a}vez,10.1145/3657054.3657146,Taiwan,2024,J.,unknown
+300,Michael Ahn,10.1145/3396956.3398260,Republic of Korea,2020,Michael,male
+301,Yu-Che Chen,10.1145/3396956.3398260,Republic of Korea,2020,Yu-Che,male
+302,Mengmeng Wu,10.1145/3657054.3657131,Taiwan,2024,Mengmeng,unknown
+303,Joel Lima-Junior,10.1145/3657054.3657113,Taiwan,2024,Joel,male
+304,Kiev Gama,10.1145/3657054.3657113,Taiwan,2024,Kiev,male
+305,Jorge Correia-Neto,10.1145/3657054.3657113,Taiwan,2024,Jorge,male
